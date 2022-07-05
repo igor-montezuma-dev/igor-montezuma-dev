@@ -21,6 +21,4 @@
   <img src="https://profile-counter.glitch.me/IgorMontezuma20/count.svg?"  />
 </div>
 
-<img href="https://raw.githubusercontent.com/IgorMontezuma20/IgorMontezuma20/blob/output/snake.svg" alt="Snake animation" />
-
 ###
