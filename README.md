@@ -27,6 +27,11 @@
 ![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
+*Estagiário de desenvolvimento Android* \
+[*Foursys*](https://www.foursys.com.br/) • Contrato \
+Linguagens & Tecnologias: `Java`, `Kotlin`, `Figma`, `Gitlab`, `Miro`, \
+Projetos em destaque: [4Pay](https://github.com/renatorrocha/4Pay), BRAVVE
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{IgorMontezuma20}/count.svg" /></p> 
