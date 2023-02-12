@@ -27,10 +27,15 @@
 ![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
+### Experiência de trabalho
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQGseVyE_7ZFDQ/company-logo_200_200/0/1533695259977?e=2147483647&v=beta&t=89OLgx8-ij6frds2h7MC5HtZo8U1o-IIgjVZuMrPq8U"/>](https://www.foursys.com.br/)
+
 *Estagiário de desenvolvimento Android* \
 [*Foursys*](https://www.foursys.com.br/) • Contrato \
 Linguagens & Tecnologias: `Java`, `Kotlin`, `Figma`, `Gitlab`, `Miro`, \
 Projetos em destaque: [4Pay](https://github.com/renatorrocha/4Pay), BRAVVE
+<br/>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
