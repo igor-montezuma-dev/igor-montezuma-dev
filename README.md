@@ -4,12 +4,12 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IgorMontezuma20&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00BFFF&text_color=c9d1d9&bg_color=0d1117" alt="Igor Montezuma github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMontezuma20&layout=compact&hide_border=true&title_color=00FFFF&text_color=00BFFF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=igor-montezuma-dev&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00BFFF&text_color=c9d1d9&bg_color=0d1117" alt="Igor Montezuma github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-montezuma-dev&layout=compact&hide_border=true&title_color=00FFFF&text_color=00BFFF&bg_color=0d1117" />
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IgorMontezuma20&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=igor-montezuma-dev&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center"> 
@@ -44,6 +44,6 @@ Projetos em destaque: [4Pay](https://github.com/renatorrocha/4Pay), BRAVVE
 <br>
 </div>
 
-![snake gif](https://github.com/IgorMontezuma20/IgorMontezuma20/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/igor-montezuma-dev/igor-montezuma-dev/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
