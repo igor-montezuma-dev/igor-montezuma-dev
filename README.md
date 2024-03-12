@@ -36,20 +36,13 @@ Linguagens & Tecnologias: `Java`, `Kotlin`, `Figma`, `Gitlab`, `Miro`, \
 Projetos em destaque: [4Pay](https://github.com/renatorrocha/4Pay), BRAVVE
 <br/>
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{IgorMontezuma20}/count.svg" /></p> 
-<br>
-</div>
-
-
 *Desenvolvedor Angular* \
 [*CrosOften*](https://crosoften.com/quem-somos/) • Contrato \
 Linguagens & Tecnologias: `Typescript`, `Angular`, `Figma`, `Gitlab` \
 <br/>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>Visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{IgorMontezuma20}/count.svg" /></p> 
 <br>
 </div>
