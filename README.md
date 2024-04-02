@@ -38,7 +38,7 @@ Projetos em destaque: [4Pay](https://github.com/renatorrocha/4Pay), BRAVVE
 
 *Desenvolvedor Angular* \
 [*CrosOften*](https://crosoften.com/quem-somos/) • Contrato \
-Linguagens & Tecnologias: `Typescript`, `Angular`, `Figma`, `Github` \
+Linguagens & Tecnologias: `Typescript`, `Angular`, `Rxjs`, `Figma`, `AdobeXD` `Github` \
 <br/>
 
 <div align="center">
