@@ -14,7 +14,7 @@
 
 <div align="center"> 
 <a href = "mailto:igorminranda17@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-FF6347?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/igor-montezuma/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/igor-montezuma-dev/+" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
  
   ### Main skills:
@@ -43,7 +43,7 @@ Linguagens & Tecnologias: `Typescript`, `Angular`, `Rxjs`, `Figma`, `AdobeXD` `G
 <br/>
 
 <div align="center">
-<br><p align="centre"><b>Visitantes</b></p>  
+<br><p align="center"><b>Visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{IgorMontezuma20}/count.svg" /></p> 
 <br>
 </div>
