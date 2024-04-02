@@ -36,7 +36,7 @@ Linguagens & Tecnologias: `Java`, `Kotlin`, `Figma`, `Gitlab`, `Miro`, \
 Projetos em destaque: [4Pay](https://github.com/renatorrocha/4Pay), BRAVVE
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQGseVyE_7ZFDQ/company-logo_200_200/0/1533695259977?e=2147483647&v=beta&t=89OLgx8-ij6frds2h7MC5HtZo8U1o-IIgjVZuMrPq8U"/>](https://www.foursys.com.br/)(https://crosoften.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4E0BAQHiA2NmlUG…eta&t=qKelNoPB4a_jExENB7vsO4XAYGCTQjF34sqsdzvJgXw"/>](https://crosoften.com/)
 *Desenvolvedor Angular* \
 [*CrosOften*](https://crosoften.com/quem-somos/) • Contrato \
 Linguagens & Tecnologias: `Typescript`, `Angular`, `Rxjs`, `Figma`, `AdobeXD` `Github` \
