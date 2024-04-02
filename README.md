@@ -36,7 +36,7 @@ Linguagens & Tecnologias: `Java`, `Kotlin`, `Figma`, `Gitlab`, `Miro`, \
 Projetos em destaque: [4Pay](https://github.com/renatorrocha/4Pay), BRAVVE
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4E0BAQHiA2NmlUG…eta&t=qKelNoPB4a_jExENB7vsO4XAYGCTQjF34sqsdzvJgXw"/>](https://crosoften.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="[https://media.licdn.com/dms/image/C4E0BAQHiA2NmlUG…eta&t=qKelNoPB4a_jExENB7vsO4XAYGCTQjF34sqsdzvJgXw](https://media.licdn.com/dms/image/C4E0BAQHiA2NmlUGs0A/company-logo_200_200/0/1630569830157/crosoften_logo?e=1720051200&v=beta&t=qKelNoPB4a_jExENB7vsO4XAYGCTQjF34sqsdzvJgXw)"/>](https://crosoften.com/)
 *Desenvolvedor Angular* \
 [*CrosOften*](https://crosoften.com/quem-somos/) • Contrato \
 Linguagens & Tecnologias: `Typescript`, `Angular`, `Rxjs`, `Figma`, `AdobeXD` `Github` \
