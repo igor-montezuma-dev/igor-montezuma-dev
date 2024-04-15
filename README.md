@@ -29,7 +29,7 @@
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
 
 
-### Experiência de trabalho
+### Experiência profissional
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQGseVyE_7ZFDQ/company-logo_200_200/0/1533695259977?e=2147483647&v=beta&t=89OLgx8-ij6frds2h7MC5HtZo8U1o-IIgjVZuMrPq8U"/>](https://www.foursys.com.br/)
 
