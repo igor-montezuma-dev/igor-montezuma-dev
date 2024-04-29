@@ -56,7 +56,7 @@ Conecte-se comigo em outras redes 👇
 # Experiência de trabalho
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/igor-montezuma-dev/igor-montezuma-dev/blob/main/crosoften-logo.png"/>](https://crosoften.com)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/igor-montezuma-dev/igor-montezuma-dev/blob/main/crosoften_logo.jpeg"/>](https://crosoften.com)
 Front End Developer \
 [**CroSoften**](https://crosoften.com) • Fev de 2024 - o momento • Contrato \
 Linguagens & Tecnologias: `Typescript`, `Figma`, `Github`, `Angular`, `SCSS`, `RXJS`, `Tailwind Css`\
