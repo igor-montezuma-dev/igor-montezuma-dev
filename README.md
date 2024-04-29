@@ -62,7 +62,7 @@ Front End Developer \
 Linguagens & Tecnologias: `Typescript`, `Figma`, `Github`, `Angular`, `SCSS`, `RXJS`, `Tailwind Css`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/igor-montezuma-de/igor-montezuma-dev/blob/main/foursys-logo.jpg"/>](https://www.foursys.com.br/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/igor-montezuma-dev/igor-montezuma-dev/blob/main/foursys-logo.jpg"/>](https://www.foursys.com.br/)
 Mobile Developer | Estagiário de desenvolvimento Android \
 [**Foursys**](https://www.foursys.com.br/) • abr de 2022 - Mai de 2023 • 1 ano • Contrato \
 Linguagens & Tecnologias: `Java`, `Kotlin`, `Figma`, `Gitlab`, `Miro`, \
