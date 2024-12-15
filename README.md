@@ -14,7 +14,6 @@ import Developer from '@Igormontezuma';
 class about extends Developer {
   name      = 'Igor Montezuma de Miranda';
   area      = 'Full-Stack';
-  work      = 'CroSoften';
   state     = 'Minas Gerais, MG';
 }
 ```
