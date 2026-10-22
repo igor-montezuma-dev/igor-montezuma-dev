@@ -2,8 +2,14 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7DF1E&vCenter=true&width=480&lines=Desenvolvedor+Full-Stack;Java+%7C+Spring+Boot+%7C+Node.js;Angular+%7C+React+%7C+Next.js;Do+zero+%C3%A0+produ%C3%A7%C3%A3o+%F0%9F%9A%80" alt="Desenvolvedor Full-Stack" /></a>
+
 <p align="left"> 
-  Meu nome é <strong>Igor Montezuma</strong> e sou um desenvolvedor em desenvolvimento.
+  Meu nome é <strong>Igor Montezuma</strong> e sou desenvolvedor <strong>Full-Stack</strong> com quase 4 anos de experiência construindo aplicações web de ponta a ponta.
+    <br>
+  Trabalho com <strong>Java, Spring Boot e Node.js</strong> no back-end e <strong>Angular, React e Next.js</strong> no front-end, com testes automatizados, Docker e deploy contínuo.
+    <br>
+  Hoje mantenho dois produtos em produção: o <a href="https://www.elaraapp.com.br"><strong>Elara</strong></a>, um SaaS de gestão para clínicas, e o <a href="https://garimpa.dev"><strong>Garimpa.ai</strong></a>, um agregador de vagas de tecnologia.
     <br>
   Graduado em <strong>Sistemas de Informação</strong>.
     <br>
@@ -100,10 +106,28 @@ Linguagens & Tecnologias: `Java`, `Kotlin`, `Figma`, `Gitlab`, `Miro`, \
 Projetos em destaque: [4Pay](https://github.com/renatorrocha/4Pay), `BRAVVE`
 <br/>
 
-# Linguagens mais usadas
+# 📊 Métricas
 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=true&username=igor-montezuma-dev" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=true&username=igor-montezuma-dev" height="150" alt="languages graph"  />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=igor-montezuma-dev&theme=synthwave&hide_border=true&locale=pt_BR" height="150" alt="streak stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=igor-montezuma-dev&theme=synthwave-84&hide_border=true&area=true" width="95%" alt="activity graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=igor-montezuma-dev&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies" />
 </div>
