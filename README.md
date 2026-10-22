@@ -110,7 +110,7 @@ Projetos em destaque: [4Pay](https://github.com/renatorrocha/4Pay), `BRAVVE`
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=true&username=igor-montezuma-dev" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=true&username=igor-montezuma-dev" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=true&username=igor-montezuma-dev" height="150" alt="languages graph"  />
 </div>
 
@@ -123,11 +123,9 @@ Projetos em destaque: [4Pay](https://github.com/renatorrocha/4Pay), `BRAVVE`
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=igor-montezuma-dev&theme=synthwave-84&hide_border=true&area=true" width="95%" alt="activity graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=igor-montezuma-dev&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/igor-montezuma-dev/igor-montezuma-dev/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/igor-montezuma-dev/igor-montezuma-dev/output/github-snake.svg" />
+    <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/igor-montezuma-dev/igor-montezuma-dev/output/github-snake-dark.svg" />
+  </picture>
 </div>
