@@ -2,12 +2,12 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7DF1E&vCenter=true&width=480&lines=Desenvolvedor+Full-Stack;Java+%7C+Spring+Boot+%7C+Node.js;Angular+%7C+React+%7C+Next.js;Do+zero+%C3%A0+produ%C3%A7%C3%A3o+%F0%9F%9A%80" alt="Desenvolvedor Full-Stack" /></a>
+**Desenvolvedor Full-Stack** · Java | Spring Boot | Node.js | React | Next.js
 
 <p align="left"> 
-  Meu nome é <strong>Igor Montezuma</strong> e sou desenvolvedor <strong>Full-Stack</strong> com quase 4 anos de experiência construindo aplicações web de ponta a ponta.
+  Meu nome é <strong>Igor Montezuma</strong> e sou desenvolvedor <strong>Full-Stack</strong> com 4 anos de experiência construindo aplicações web de ponta a ponta.
     <br>
-  Trabalho com <strong>Java, Spring Boot e Node.js</strong> no back-end e <strong>Angular, React e Next.js</strong> no front-end, com testes automatizados, Docker e deploy contínuo.
+  Trabalho com <strong>Java, Spring Boot e Node.js</strong> no back-end e <strong>Angular, React e Next.js</strong> no front-end, com testes automatizados, mensageria (RabbitMQ e Kafka), Docker, Kubernetes e deploy contínuo.
     <br>
   Hoje mantenho dois produtos em produção: o <a href="https://www.elaraapp.com.br"><strong>Elara</strong></a>, um SaaS de gestão para clínicas, e o <a href="https://garimpa.dev"><strong>Garimpa.ai</strong></a>, um agregador de vagas de tecnologia.
     <br>
@@ -20,7 +20,7 @@ import Developer from '@Igormontezuma';
 class about extends Developer {
   name      = 'Igor Montezuma de Miranda';
   area      = 'Full-Stack';
-  state     = 'Minas Gerais, MG';
+  state     = 'Minas Gerais';
 }
 ```
 
@@ -57,14 +57,20 @@ class about extends Developer {
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)&nbsp;
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)&nbsp;
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)&nbsp;
 ![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logoColor=white)&nbsp;
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
 ![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)&nbsp;
 ![GitHubActions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)&nbsp;
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)&nbsp;
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)&nbsp;
 
 # Contatos
 
@@ -80,12 +86,17 @@ Conecte-se comigo em outras redes 👇
 
 <br/>
 
+# 🚀 Projetos em produção
+
+- **[Garimpa.ai](https://garimpa.dev)**: agregador de vagas de tecnologia com cálculo de aderência ao perfil. `Java 21`, `Spring Boot`, `PostgreSQL`, `Kafka`, `Next.js`, `Docker`, `AWS`, `GitHub Actions`, `Prometheus`, `Grafana`
+- **[Elara](https://www.elaraapp.com.br)**: SaaS de gestão para clínicas com cobrança por assinatura. `Next.js`, `React`, `TypeScript`, `Prisma`, `PostgreSQL`, `Stripe`
+
 # Experiência de trabalho
 <br/>
 
 Desenvolvedor Full-Stack \
 **Mundo Mídia** • Mar de 2025 - até o momento • Viçosa, MG \
-Linguagens & Tecnologias: `Typescript`, `React`, `Next.js`, `Node.js`, `SQL`, `Docker`, `CI/CD` \
+Linguagens & Tecnologias: `Typescript`, `React`, `Next.js`, `Node.js`, `MySQL`, `MongoDB`, `RabbitMQ`, `Docker`, `Kubernetes`, `CI/CD` \
 <br/>
 
 Desenvolvedor Full-Stack \
@@ -93,17 +104,17 @@ Desenvolvedor Full-Stack \
 Linguagens & Tecnologias: `Kotlin`, `Spring Boot`, `React`, `JUnit` \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/igor-montezuma-dev/igor-montezuma-dev/blob/main/crosoften_logo.jpg"/>](https://crosoften.com)
+[<img align="left" height="94px" width="94px" alt="Crosoften" src="https://raw.githubusercontent.com/igor-montezuma-dev/igor-montezuma-dev/main/crosoften_logo.jpg"/>](https://crosoften.com)
 Desenvolvedor Full-Stack \
 [**CroSoften**](https://crosoften.com) • Fev de 2023 - Mar de 2025 • Contrato \
 Linguagens & Tecnologias: `Typescript`, `Figma`, `Github`, `Angular`, `SCSS`, `RXJS`, `NgRx`, `Jasmine`, `Tailwind Css`, `Spring Boot`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/igor-montezuma-dev/igor-montezuma-dev/blob/main/foursys-logo.jpg"/>](https://www.foursys.com.br/)
-Mobile Developer | Estagiário de desenvolvimento Android \
-[**Foursys**](https://www.foursys.com.br/) • abr de 2022 - Mai de 2023 • 1 ano • Contrato \
-Linguagens & Tecnologias: `Java`, `Kotlin`, `Figma`, `Gitlab`, `Miro`, \
-Projetos em destaque: [4Pay](https://github.com/renatorrocha/4Pay), `BRAVVE`
+[<img align="left" height="94px" width="94px" alt="Foursys" src="https://raw.githubusercontent.com/igor-montezuma-dev/igor-montezuma-dev/main/foursys-logo.jpg"/>](https://www.foursys.com.br/)
+Desenvolvedor Android (Estágio) \
+[**Foursys**](https://www.foursys.com.br/) • Abr de 2022 - Fev de 2023 • Estágio • Remoto \
+Linguagens & Tecnologias: `Java`, `Kotlin`, `MVVM`, `Clean Architecture`, `Coroutines`, `Gitlab` \
+Projetos em destaque: [4Pay](https://github.com/renatorrocha/4Pay), alocação no cliente `Bravve`
 <br/>
 
 # 📊 Métricas
